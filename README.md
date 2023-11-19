@@ -25,6 +25,7 @@
 - **Nome gruppo**: OOBD2324_22
 - **Nome progetto**: Unina Delivery
 - **Membri del gruppo**: [Membri del gruppo](#membri-del-gruppo)
+- **Docenti referenti progetto**: [Prof. Sergio di Martino](https://www.docenti.unina.it/#!/professor/53455247494f4449204d415254494e4f444d5253524737364232364638333952/riferimenti), [Prof. Mara Sangiovanni](https://www.docenti.unina.it/#!/professor/4d41524153414e47494f56414e4e49534e474d524137354c34314638333949/riferimenti)
 
 ### Membri del gruppo
 
