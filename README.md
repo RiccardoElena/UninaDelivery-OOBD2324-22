@@ -69,7 +69,7 @@ Da definire in seguito ad assegnazione traccia
 
 #### Gestione branches
 
-- `main`: branch principale
+- `master`: branch principale
 - `develop`: branch di sviluppo
 - `feature-NOMEFEATURE/`: branch facvoltativa per feature extra
 
@@ -77,9 +77,9 @@ Da definire in seguito ad assegnazione traccia
 
 Struttura generale di ereditarietà
 
-`feature-* -> develop -> main` (tramite pull request e code review per main).
+`feature-NOMEFEATURE -> develop -> main` (tramite pull request e code review per main).
 
-- _Gitflow_ `feature-* -> develop`: ogni membro del gruppo può creare un branch per sviluppare una feature extra, che verrà poi integrata nel branch `develop` tramite pull request e code review.
+- _Gitflow_ `feature-NOMEFEATURE -> develop`: ogni membro del gruppo può creare un branch per sviluppare una feature extra, che verrà poi integrata nel branch `develop` tramite pull request e code review.
 
 - _Parallel Branches_ `develop -> main`: il branch `develop` sarà parallelo al branch `main` in cui verrà integrato periodicamente tramite pull request e code review.
 
