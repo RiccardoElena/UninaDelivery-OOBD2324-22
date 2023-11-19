@@ -14,7 +14,7 @@
   - [Strumenti utilizzati](#strumenti-utilizzati)
   - [Struttura del progetto](#struttura-del-progetto)
   - [Struttura del repository](#struttura-del-repository)
-  - [Gestione repository GitHub](#gestione-repository-GitHub)
+  - [Gestione repository GitHub](#gestione-repository-github)
     - [Gestione branches](#gestione-branches)
       - [Workflow](#workflow)
     - [Standard dei Commit Messages](#standard-dei-commit-messages)
