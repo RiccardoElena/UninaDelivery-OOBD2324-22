@@ -1,4 +1,4 @@
-# Unina Delivery - Gr. OOBD2324_22
+# Unina Delivery - Group-ID OOBD2324_22
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -18,8 +18,8 @@
     - [Gestione branches](#gestione-branches)
       - [Workflow](#workflow)
     - [Standard dei Commit Messages](#standard-dei-commit-messages)
-    - [Gestione issues](#gestione-issues)
-    - [Gestione pull requests](#gestione-pull-requests)
+    - [Gestione Issues](#gestione-issues)
+    - [Gestione Pull Requests](#gestione-pull-requests)
   - [Distribuzione dei ruoli](#distribuzione-dei-ruoli)
     - [Progettazione](#progettazione)
     - [Implementazione](#implementazione)
@@ -38,14 +38,6 @@
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://GitHub.com/RiccardoElena"><img src="https://avatars.GitHubusercontent.com/u/23059036?v=4?s=100" width="100px;" alt="Riccardo Elena"/><br /><sub><b>Riccardo Elena</b></sub></a><br /><a href="https://GitHub.com/RiccardoElena/UninaDelivery-OOBD2324-22/commits?author=RiccardoElena" title="Code">💻</a> <a href="#data-RiccardoElena" title="Data">🔣</a> <a href="https://GitHub.com/RiccardoElena/UninaDelivery-OOBD2324-22/commits?author=RiccardoElena" title="Documentation">📖</a> <a href="#ideas-RiccardoElena" title="Ideas, Planning, & Feedback">🤔</a></td>
-    </tr>
-  </tbody>
-</table>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
@@ -85,7 +77,7 @@ Da definire in seguito ad assegnazione traccia
 
 - `master`: branch principale
 - `develop`: branch di sviluppo
-- `feature-NOMEFEATURE/`: branch facvoltativa per feature extra
+- `feature-NOMEFEATURE/`: branch facoltativa per feature extra
 
 ##### Workflow
 
@@ -101,11 +93,11 @@ Struttura generale di ereditarietà
 
 Si utilizza lo standard fornito da [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) eventualmente adattato per il progetto.
 
-#### Gestione issues
+#### Gestione Issues
 
 Di persona o tramite Discord.
 
-#### Gestione pull requests
+#### Gestione Pull Requests
 
 Approvazione di tutti i collaboratori del progetto necessaria all'approvazione.
 
